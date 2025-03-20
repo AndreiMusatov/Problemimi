@@ -1,0 +1,28 @@
+2025-03-19 18:27:15.744797+03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Синтаксическая ошибка в выражении SQL "SELECT * FROM MESSAGE PERSON [*]PERSON PERSON PERSON"
+Syntax error in SQL statement "SELECT * FROM MESSAGE PERSON [*]PERSON PERSON PERSON"; SQL statement:
+SELECT * FROM MESSAGE PERSON PERSON PERSON PERSON [42000-224]
+2025-03-20 14:16:08.841659+03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Синтаксическая ошибка в выражении SQL "SELECT * [*]PERSON"
+Syntax error in SQL statement "SELECT * [*]PERSON"; SQL statement:
+SELECT * PERSON [42000-224]
+2025-03-20 14:16:15.863456+03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Синтаксическая ошибка в выражении SQL "SELECT * [*]PERSON PERSON"
+Syntax error in SQL statement "SELECT * [*]PERSON PERSON"; SQL statement:
+SELECT * PERSON PERSON [42000-224]
+2025-03-20 14:16:16.777970+03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Синтаксическая ошибка в выражении SQL "SELECT * [*]PERSON PERSON"
+Syntax error in SQL statement "SELECT * [*]PERSON PERSON"; SQL statement:
+SELECT * PERSON PERSON [42000-224]
+2025-03-20 14:16:23.403221+03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Синтаксическая ошибка в выражении SQL "SELECT * [*]PERSON"
+Syntax error in SQL statement "SELECT * [*]PERSON"; SQL statement:
+SELECT * PERSON [42000-224]
+2025-03-20 14:16:24.208580+03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Синтаксическая ошибка в выражении SQL "SELECT * [*]PERSON"
+Syntax error in SQL statement "SELECT * [*]PERSON"; SQL statement:
+SELECT * PERSON [42000-224]
+2025-03-20 14:16:26.285687+03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Синтаксическая ошибка в выражении SQL "SELECT * [*]PERSON"
+Syntax error in SQL statement "SELECT * [*]PERSON"; SQL statement:
+SELECT * PERSON [42000-224]
